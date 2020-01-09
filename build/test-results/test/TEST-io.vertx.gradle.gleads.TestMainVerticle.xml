@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.vertx.gradle.gleads.TestMainVerticle" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-09T11:21:38" hostname="DESKTOP-8N6BFOV" time="0.06">
+  <properties/>
+  <testcase name="verticle_deployed(Vertx, VertxTestContext)" classname="io.vertx.gradle.gleads.TestMainVerticle" time="0.06"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jan 09, 2020 12:21:38 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Jan 09, 2020 12:21:38 PM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:6, serverValue:27}] to localhost:27017
+]]></system-err>
+</testsuite>
